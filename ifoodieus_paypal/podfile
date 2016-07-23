@@ -1,0 +1,9 @@
+
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '7.0'
+target :ifoodieus do
+pod 'GoogleMaps'
+pod "AFNetworking", "~> 2.0"
+pod "SDWebImage"
+end
+
